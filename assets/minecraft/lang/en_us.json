@@ -4,7 +4,7 @@
   "advancements.adventure.xray.title" : "A Good View of the World",
   "advancements.adventure.xray.description" : "Use a composter to grow yourself a third eye",
   "advancements.adventure.titan.title" : "Assault on Titan",
-  "advancements.adventure.titan.description" : "Defeat the mighty titan Zombie",
+  "advancements.adventure.titan.description" : "Defeat the mighty titanic Slime",
 
   "advancements.husbandry.hallowen.title" : "Hallowen-ready",
   "advancements.husbandry.hallowen.description" : "Obtain a spooky glowing pumpkin",
@@ -84,6 +84,5 @@
   "item.potion.blindness_splash" : "Splash Potion of Blindness",
   "item.potion.blindness_linger" : "Lingering Potion of Blindness",
   "item.potion.poseidon_tears" : "Poseidon's Tears",
-  "item.potion.poseidon_tears_splash" : "Splash Poseidon's Tears",
-  "item.potion.poseidon_tears_lingering" : "Lingering Poseidon's Tears"
+  "item.potion.poseidon_tears_splash" : "Splash Poseidon's Tears"
 }
