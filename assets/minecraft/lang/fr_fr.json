@@ -3,14 +3,18 @@
   "advancements.adventure.overkill.description" : "Infliger plus de dix coeurs de dégats en un seul coup",
   "advancements.adventure.xray.title" : "Vision Globale",
   "advancements.adventure.xray.description" : "Découvre ton troisième oeil avec l'aide d'un composteur",
+
   "advancements.husbandry.hallowen.title" : "Prêt pour Hallowen",
   "advancements.husbandry.hallowen.description" : "Obtient une effrayante citrouille lumineuse",
   "advancements.husbandry.magic_fish.title" : "Le Lac Magique",
   "advancements.husbandry.magic_fish.description" : "Pêche un livre enchanté",
   "advancements.husbandry.mule.title" : "Tête de Mule",
   "advancements.husbandry.mule.description" : "Croise un cheval et un ane pour obtenir une mule",
+
   "advancements.nether.roof.title" : "Vers le Toit et l'Au-delà !",
   "advancements.nether.roof.description" : "Gagne accès au toit du Nether",
+
+
   "advancements.museum.root.title" : "Musée",
   "advancements.museum.root.description" : "Un bon endroit pour afficher ses collections",
   "advancements.museum.rock.title" : "Un Mineur de Plus de 18 ans",
@@ -29,6 +33,7 @@
   "advancements.museum.potion_long.description" : "Produit tout les types de potions allongées",
   "advancements.museum.dragon_potion.title" : "Persistence du Savoir",
   "advancements.museum.dragon_potion.description" : "Produit tout les types de potions persitentes",
+  
   "advancements.popolworld.root.title" : "PopolWorld",
   "advancements.popolworld.chunk.title" : "Ma Nouvelle Chambre Étudiante",
   "advancements.popolworld.chunk.description" : "Obtenir les droits de possession d'un chunk",

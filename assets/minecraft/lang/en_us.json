@@ -3,6 +3,8 @@
   "advancements.adventure.overkill.description" : "Inflict 10 hearts of damage or more in a single strike",
   "advancements.adventure.xray.title" : "A Good View of the World",
   "advancements.adventure.xray.description" : "Use a composter to grow yourself a third eye",
+  "advancements.adventure.titan.title" : "Assault on Titan",
+  "advancements.adventure.titan.description" : "Defeat the mighty titan Zombie",
 
   "advancements.husbandry.hallowen.title" : "Hallowen-ready",
   "advancements.husbandry.hallowen.description" : "Obtain a spooky glowing pumpkin",
@@ -16,6 +18,10 @@
 
   "advancements.story.bottom.title" : "The Lowest of the Lows",
   "advancements.story.bottom.description" : "Attain the very bottom of this world",
+  "advancements.story.bottom_plus.title" : "Even Lower",
+  "advancements.story.bottom_plus.description" : "Try to get lower ... and die in the Void",
+  "advancements.story.cooking.title" : "Furnace Papa",
+  "advancements.story.cooking.description" : "Obtain all types of furnaces",
 
 
   "advancements.museum.root.title" : "Museum",
