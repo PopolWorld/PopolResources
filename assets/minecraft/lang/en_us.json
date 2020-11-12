@@ -3,14 +3,21 @@
   "advancements.adventure.overkill.description" : "Inflict 10 hearts of damage or more in a single strike",
   "advancements.adventure.xray.title" : "A Good View of the World",
   "advancements.adventure.xray.description" : "Use a composter to grow yourself a third eye",
+
   "advancements.husbandry.hallowen.title" : "Hallowen-ready",
   "advancements.husbandry.hallowen.description" : "Obtain a spooky glowing pumpkin",
   "advancements.husbandry.magic_fish.title" : "A Magical Lake",
   "advancements.husbandry.magic_fish.description" : "Fish up an enchanting book",
   "advancements.husbandry.mule.title" : "Best of both Worlds",
   "advancements.husbandry.mule.description" : "Breed a donkey and an horse to obtain a mule",
+
   "advancements.nether.roof.title" : "To the Roof and Beyond!",
   "advancements.nether.roof.description" : "Access the roof of the Nether",
+
+  "advancements.story.bottom.title" : "The Lowest of the Lows",
+  "advancements.story.bottom.description" : "Attain the very bottom of this world",
+
+
   "advancements.museum.root.title" : "Museum",
   "advancements.museum.root.description" : "A place to display your collections",
   "advancements.museum.rock.title" : "To the Center of the Earth",
@@ -29,6 +36,7 @@
   "advancements.museum.potion_long.description" : "Brew all types of extended potions",
   "advancements.museum.dragon_potion.title" : "Lasting Effect",
   "advancements.museum.dragon_potion.description" : "Brew all types of lingering potions",
+
   "advancements.popolworld.root.title" : "PopolWorld",
   "advancements.popolworld.chunk.title" : "It's Free Real Estate!",
   "advancements.popolworld.chunk.description" : "Claim a chunk of your own",
