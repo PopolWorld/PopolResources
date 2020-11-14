@@ -6,6 +6,7 @@
   "advancements.adventure.titan.title" : "L'Assault des Titans",
   "advancements.adventure.titan.description" : "Vaincre le légendaire Slime titanique",
 
+
   "advancements.husbandry.hallowen.title" : "Prêt pour Hallowen",
   "advancements.husbandry.hallowen.description" : "Obtient une effrayante citrouille lumineuse",
   "advancements.husbandry.magic_fish.title" : "Le Lac Magique",
@@ -13,8 +14,10 @@
   "advancements.husbandry.mule.title" : "Tête de Mule",
   "advancements.husbandry.mule.description" : "Croise un cheval et un ane pour obtenir une mule",
 
+
   "advancements.nether.roof.title" : "Vers le Toit et l'Au-delà !",
   "advancements.nether.roof.description" : "Gagne accès au toit du Nether",
+
 
   "advancements.story.bottom.title" : "20 000 Blocs Sous Terre",
   "advancements.story.bottom.description" : "Atteindre la couche la plus profonde de ce monde",
@@ -30,8 +33,11 @@
   "advancements.museum.rock.description" : "Obtenir tout les types de roches",
   "advancements.museum.wood.title" : "Âme de Canadien",
   "advancements.museum.wood.description" : "Obtenir tout les types de bois",
+  "advancements.museum.wool.title" : "Chemin Arc-en-ciel",
+  "advancements.museum.wool.description" : "Obtain all types of wool",
   "advancements.museum.nether_end_rock.title" : "Géologie Alien",
   "advancements.museum.nether_end_rock.description" : "Obtenir tout les types de roches extra-terrestre",
+
   "advancements.museum.potion.title" : "Chimiste des Temps Anciens",
   "advancements.museum.potion.description" : "Produit tout les types de potions",
   "advancements.museum.splash_potion.title" : "Connaissance Explosives",
@@ -43,6 +49,7 @@
   "advancements.museum.dragon_potion.title" : "Persistence du Savoir",
   "advancements.museum.dragon_potion.description" : "Produit tout les types de potions persitentes",
   
+  
   "advancements.popolworld.root.title" : "PopolWorld",
   "advancements.popolworld.chunk.title" : "Ma Nouvelle Chambre Étudiante",
   "advancements.popolworld.chunk.description" : "Obtenir les droits de possession d'un chunk",
@@ -52,12 +59,14 @@
   "advancements.popolworld.chunk_16.description" : "Posséder 16 chunks",
   "advancements.popolworld.chunk_forceload.title" : "Possesion de Terrain",
   "advancements.popolworld.chunk_forceload.description" : "Dépense une petite fortune pour garder ton chunk chargé à tout moment",
+
   "advancements.popolworld.market.title" : "De l'Argent !",
   "advancements.popolworld.market.description" : "Vendre quelque chose au marché",
   "advancements.popolworld.exchange.title" : "La Loi de l'Échange Équivalent",
   "advancements.popolworld.exchange.description" : "Faire un échange avec un autre joueur",
   "advancements.popolworld.auction.title" : "Guerre Financière",
   "advancements.popolworld.auction.description" : "Vendre un item aux enchères",
+
   "advancements.popolworld.money_1.title" : "Salaire de Prof",
   "advancements.popolworld.money_1.description" : "Posséder un total de 10.000 P",
   "advancements.popolworld.money_2.title" : "Petite Fortune",

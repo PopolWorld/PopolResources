@@ -6,6 +6,7 @@
   "advancements.adventure.titan.title" : "Assault on Titan",
   "advancements.adventure.titan.description" : "Defeat the mighty titanic Slime",
 
+
   "advancements.husbandry.hallowen.title" : "Hallowen-ready",
   "advancements.husbandry.hallowen.description" : "Obtain a spooky glowing pumpkin",
   "advancements.husbandry.magic_fish.title" : "A Magical Lake",
@@ -13,8 +14,10 @@
   "advancements.husbandry.mule.title" : "Best of both Worlds",
   "advancements.husbandry.mule.description" : "Breed a donkey and an horse to obtain a mule",
 
+
   "advancements.nether.roof.title" : "To the Roof and Beyond!",
   "advancements.nether.roof.description" : "Access the roof of the Nether",
+
 
   "advancements.story.bottom.title" : "The Lowest of the Lows",
   "advancements.story.bottom.description" : "Attain the very bottom of this world",
@@ -28,12 +31,36 @@
   "advancements.museum.root.description" : "A place to display your collections",
   "advancements.museum.rock.title" : "To the Center of the Earth",
   "advancements.museum.rock.description" : "Obtain all types of rocks",
-  "advancements.museum.wood.title" : "Canadian Soul",
-  "advancements.museum.wood.description" : "Obtain all types of wood",
-  "advancements.museum.wool.title" : "Rainbow Period",
-  "advancements.museum.wool.description" : "Obtain all types of wool",
   "advancements.museum.nether_end_rock.title" : "Alien Geology",
   "advancements.museum.nether_end_rock.description" : "Obtain all types of otherworldy rocks",
+  "advancements.museum.wood.title" : "Canadian Soul",
+  "advancements.museum.wood.description" : "Obtain all types of wood",
+
+  "advancements.museum.dye.title" : "Colors to Dye For",
+  "advancements.museum.dye.description" : "Obtain all types of dies",
+  "advancements.museum.wool.title" : "Rainbow Silk Road",
+  "advancements.museum.wool.description" : "Obtain all types of wool",
+  "advancements.museum.concrete_powder.title" : "Dyed Dust",
+  "advancements.museum.concrete_powder.description" : "Obtain all types of concrete powder",
+  "advancements.museum.concrete.title" : "Concrete Colors",
+  "advancements.museum.concrete.description" : "Obtain all types of concrete",
+  "advancements.museum.terracotta.title" : "Terrachroma",
+  "advancements.museum.terracotta.description" : "Obtain all types of terracotta",
+  "advancements.museum.glazed_terracotta.title" : "Spectrum of Passion",
+  "advancements.museum.glazed_terracotta.description" : "Obtain all types of glazed terracotta",
+  "advancements.museum.stained_glass.title" : "Prism Collection",
+  "advancements.museum.stained_glass.description" : "Obtain all types of stained glass",
+  "advancements.museum.stained_glass_pane.title" : "Varied Hues",
+  "advancements.museum.stained_glass_pane.description" : "Obtain all types of stained glass panes",
+  "advancements.museum.bed.title" : "Tinted Sleep",
+  "advancements.museum.bed.description" : "Obtain all types of beds",
+  "advancements.museum.carpet.title" : "Stained Floor",
+  "advancements.museum.carpet.description" : "Obtain all types of carpets",
+  "advancements.museum.banner.title" : "Flag of Saturation",
+  "advancements.museum.banner.description" : "Obtain all types of banners",
+  "advancements.museum.shulker_box.title" : "RGB Storage",
+  "advancements.museum.shulker_box.description" : "Obtain all types of shulker box",
+
   "advancements.museum.potion.title" : "Old-school Chemist",
   "advancements.museum.potion.description" : "Brew all types of potions",
   "advancements.museum.splash_potion.title" : "A Burst of Knowledge",
@@ -45,6 +72,7 @@
   "advancements.museum.dragon_potion.title" : "Lasting Effect",
   "advancements.museum.dragon_potion.description" : "Brew all types of lingering potions",
 
+
   "advancements.popolworld.root.title" : "PopolWorld",
   "advancements.popolworld.chunk.title" : "It's Free Real Estate!",
   "advancements.popolworld.chunk.description" : "Claim a chunk of your own",
@@ -54,12 +82,14 @@
   "advancements.popolworld.chunk_16.description" : "Claim a total of 16 chunks",
   "advancements.popolworld.chunk_forceload.title" : "Grip on the Land",
   "advancements.popolworld.chunk_forceload.description" : "Spend a small fortune to keep a chunk of yours loaded at all times",
+
   "advancements.popolworld.market.title" : "Money Money!",
   "advancements.popolworld.market.description" : "Sell something on the automated market",
   "advancements.popolworld.exchange.title" : "The Law of Equivalent Exchange!",
   "advancements.popolworld.exchange.description" : "Make an exchange with another player",
   "advancements.popolworld.auction.title" : "Bid Wars",
   "advancements.popolworld.auction.description" : "Sell an item at the player auction",
+
   "advancements.popolworld.money_1.title" : "Teacher's Salary",
   "advancements.popolworld.money_1.description" : "Possess a total of 10.000 P",
   "advancements.popolworld.money_2.title" : "Small Fortune",
